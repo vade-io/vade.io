@@ -5,37 +5,37 @@
     Alexander Adam - Programmer - @vade_io
 
 /* THANKS */
+    Noelle Rosenberg
+    Florian Zinggeler
+    Franca Rast
+    Christoph Waelchli
+    Axel Poetzsch
+    Ola Fiolek
+    Immanuel Haeussermann
+    Martin Stolz
     Dorian Minning
+    Pascal Kuster
+    Yves Senn
+    Tom Sinicki
+    Jonas Baumann
+    Florian Unternaehrer
+    Jens Kraemer
+    Felipe Kaufmann
+    Sandro Liebscher
+    Serge Haenni
+    Mario Schuettel
+    Phillip Schilter
+    Donat Baier
     Nino Guenther
     Benjamin Belee
-    Mario Schuettel
-    Christoph Waelchli
-    Martin Stolz
-    Tom Sinicki
-    Donat Baier
-    Immanuel Haeussermann
-    Ola Fiolek
-    Jonas Baumann
-    Felipe Kaufmann
-    Franca Rast
-    Stephan Maka
-    Yves Senn
-    Jan Dohl
-    Sandro Liebscher
-    Pascal Kuster
-    Jens Kraemer
-    Serge Haenni
-    Phillip Schilter
-    Florian Zinggeler
-    Lydia Lerche
-    Axel Poetzsch
-    Lea Haensenberger
     Flavio Pellanda
-    Florian Unternaehrer
-    Noelle Rosenberg
+    Lea Haensenberger
+    Jan Dohl
+    Lydia Lerche
+    Stephan Maka
 
 /* SITE */
-    Last update: 2020-10-07 20:50:58 +0200
+    Last update: 2020-10-07 20:51:38 +0200
     Language: German, English
     Standards: CSS, HTML5, JavaScript, Middleman, Ruby, Bulma
     Components: Github Pages
