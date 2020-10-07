@@ -1,0 +1,46 @@
+<h1 id="smooth-scroll-behavior-polyfill">Smooth Scroll behavior polyfill</h1>
+
+<p>The <a href="https://developer.mozilla.org/en/docs/Web/CSS/scroll-behavior">Scroll Behavior specification</a> has been introduced as an extension of the <code>Window</code> interface to allow for the developer to opt in to native smooth scrolling. To date this has only been implemented in <em>Firefox</em>.</p>
+
+<p>See it in action https://iamdustan.github.io/smoothscroll</p>
+
+<h2 id="install">Install</h2>
+
+<p>Download the distribution file from this repository and include it in your project.</p>
+
+<p>You can also find it in <strong>npm</strong> as <strong>smoothscroll-polyfill</strong> or <strong>bower</strong> as <strong>smoothscroll</strong>.</p>
+
+<p><code>js
+require('smoothscroll-polyfill').polyfill();
+</code></p>
+
+<p><em>Requires requestAnimationFrame polyfill for browsers which don't support it!</em></p>
+
+<h2 id="contribute">Contribute</h2>
+
+<p>Fork the repository and run <strong>npm install</strong>.</p>
+
+<p>After any modification make sure it doesn't break in any of the supported browsers, check linting and build running <strong>npm run build</strong> and then open a pull request.</p>
+
+<h2 id="browser-support">Browser Support</h2>
+
+<p>Successfully tested in:</p>
+
+<ul>
+  <li>Safari 6+</li>
+  <li>iOS Safari 6+</li>
+  <li>Chrome (last version)</li>
+  <li><em>natively supported in Firefox</em></li>
+  <li>Internet Explorer 9+</li>
+  <li>Microsoft Edge</li>
+  <li>Opera Next</li>
+</ul>
+
+<p>If you have tested this and worked as expected in a different browser let us know so we can add it to the list, if not <a href="https://github.com/iamdustan/smoothscroll/issues">open an issue</a> providing browser, browser version and a good description about it.</p>
+
+<h2 id="standards-documentation">Standards documentation</h2>
+
+<ul>
+  <li>http://dev.w3.org/csswg/cssom-view</li>
+  <li>http://lists.w3.org/Archives/Public/www-style/2013Mar/0314.html</li>
+</ul>
