@@ -170,6 +170,10 @@ footer.footer .content a.is-linkedin:hover, footer.footer .content a.is-linkedin
 footer.footer .content a.is-xing:hover, footer.footer .content a.is-xing:focus, footer.footer .content a.is-xing:active, footer.footer .content a.is-xing.is-hovered, footer.footer .content a.is-xing.is-focused {
   color: #026466 !important; }
 
+@media screen and (max-width: 450px) {
+  footer.footer .content .footer-line::before, footer.footer .content .footer-line::after {
+    display: none; } }
+
 .contact__card.vcard address {
   font-style: normal; }
 
