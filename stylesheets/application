@@ -170,6 +170,11 @@ footer.footer .content a.is-linkedin:hover, footer.footer .content a.is-linkedin
 footer.footer .content a.is-xing:hover, footer.footer .content a.is-xing:focus, footer.footer .content a.is-xing:active, footer.footer .content a.is-xing.is-hovered, footer.footer .content a.is-xing.is-focused {
   color: #026466 !important; }
 
+footer.footer .copyright-note, footer.footer .copyright-note a {
+  color: #C2C2C2;
+  cursor: default;
+  text-transform: lowercase; }
+
 @media screen and (max-width: 450px) {
   footer.footer .content .footer-line::before, footer.footer .content .footer-line::after {
     display: none; } }
