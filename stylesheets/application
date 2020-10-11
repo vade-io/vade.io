@@ -102,6 +102,10 @@
 a, a > i {
   transition: color 0.7s; }
 
+em {
+  font-style: normal;
+  padding: 0 3px 0 3px; }
+
 nav.navbar .navbar-start a.navbar-item {
   transition: background-color 0.7s, color 0.7s, border 0.7s, margin 0.7s;
   border-bottom: 3px solid rgba(229, 0, 126, 0); }
@@ -179,6 +183,10 @@ footer.footer .copyright-note, footer.footer .copyright-note a {
   footer.footer .content .footer-line::before, footer.footer .content .footer-line::after {
     display: none; } }
 
+blockquote cite:before {
+  content: ' ';
+  display: block; }
+
 .contact__card.vcard address {
   font-style: normal; }
 
@@ -193,6 +201,7 @@ footer.footer .copyright-note, footer.footer .copyright-note a {
   transition: padding 0.7s; }
 
 .hero.is-bold.is-violett {
+  background-color: #941b80;
   background-image: linear-gradient(141deg, #941b80 30%, #e5007e 60%, #941b80 90%); }
   .hero.is-bold.is-violett .title {
     color: #fff; }
