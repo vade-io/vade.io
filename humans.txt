@@ -1,0 +1,54 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+    Alexander Adam - Programmer - @vade_io
+
+/* THANKS */
+    Ola Fiolek
+    Donat Baier
+    Jens Kraemer
+    Nino Guenther
+    Franca Rast
+    Mario Schuettel
+    Lydia Lerche
+    Dorian Minning
+    Martin Stolz
+    Flavio Pellanda
+    Yves Senn
+    Jan Dohl
+    Florian Zinggeler
+    Florian Unternaehrer
+    Axel Poetzsch
+    Jonas Baumann
+    Noelle Rosenberg
+    Felipe Kaufmann
+    Serge Haenni
+    Tom Sinicki
+    Benjamin Belee
+    Pascal Kuster
+    Stephan Maka
+    Lea Haensenberger
+    Immanuel Haeussermann
+    Christoph Waelchli
+    Sandro Liebscher
+    Phillip Schilter
+
+/* SITE */
+    Last update: 2021-11-20 23:52:45 +0100
+    Language: German, English
+    Standards: CSS, HTML5, JavaScript, Middleman, Ruby, Bulma
+    Components: Github Pages
+    Software: Sublime Text, Sakura, GNU/Linux
+
+                                                               dddd                             iiii
+                                                               dddd                             iiii
+                                        aaaaa                  dddd
+    %%%%%#####    vvvv        vvvv  aaaaaaaaaaaaa     ddddddddddddd      eeeeeeeeee             iiii      oooooooooo
+    %%%%%#####     vvvv      vvvv   aa      aaaaa    ddddd   dddddd    eeeee    eeee            iiii     ooooo   oooo
+****     #####      vvvv    vvvv        aa   aaaa   dddd       dddd    eeee      eeee           iiii    oooo      oooo
+****     #####       vvvv  vvvv     aaaaaaaaaaaaa   dddd       dddd   eeeeeeeeeeeeeee           iiii    oooo       ooo
+****     #####        vvvvvvvv     aaaaa     aaaa   ddddd     ddddd    eeee             ....    iiii    ooooo     oooo
+::::.....              vvvvvv       aaaaa  aaaaaa    dddddddddddddd     eeeeeeeeeeeee   ....    iiii     oooooooooooo
+::::.....               vvvv         aaaaaaa aaaa      ddddddd dddd       eeeeeeee      ....    iiii       ooooooooo
+
